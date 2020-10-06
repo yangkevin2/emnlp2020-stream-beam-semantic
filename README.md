@@ -1,6 +1,6 @@
 # A Streaming Approach For Efficient Batched Beam Search
 
-Code for semantic parsing experiments for the EMNLP 2020 paper "A Streaming Approach For Efficient Batched Beam Search" by Kevin Yang, Violet Yao, John DeNero, and Dan Klein, (TODO link). For the code for machine translation and syntactic parsing experiments see https://github.com/yangkevin2/emnlp2020-stream-beam-mt and https://github.com/yangkevin2/emnlp2020-stream-beam-syntactic. 
+Code for semantic parsing experiments for the EMNLP 2020 paper "A Streaming Approach For Efficient Batched Beam Search" by Kevin Yang, Violet Yao, John DeNero, and Dan Klein (https://arxiv.org/abs/2010.02164). For the code for machine translation and syntactic parsing experiments see https://github.com/yangkevin2/emnlp2020-stream-beam-mt and https://github.com/yangkevin2/emnlp2020-stream-beam-syntactic. 
 
 ## Setup
 
